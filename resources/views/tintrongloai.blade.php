@@ -1,0 +1,1 @@
+<h1>Các tin trong loại{{$idLT}}</h1>
